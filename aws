@@ -1,3 +1,9 @@
 AWS is a Public Cloud . it used for to manage all kinds of Infra (HARDWARE +sOFTWARE)
 
 we can use VPC  SUBNET EC2 and SO.... ON
+
+and we are having some very important tools in AWS
+Like Cloud Watch ,ELB, Autoscaling... Like..
+
+
+We can implement devops on aws by using aws resoruces.
